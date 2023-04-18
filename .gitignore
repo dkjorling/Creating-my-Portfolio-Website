@@ -1,0 +1,10 @@
+*.csv
+*.png
+*.doc
+*.docx
+*.DS_Store
+assets/
+p2venv/
+__pycache__/
+Dockerfile
+

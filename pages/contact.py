@@ -1,0 +1,106 @@
+import dash_bootstrap_components as dbc
+from dash import Dash, html, dcc, Input, Output, register_page, get_asset_url
+from dash_bootstrap_templates import load_figure_template
+
+#my imports
+from dash_helpers import page_top, page_bottom
+
+
+####################################################################################
+### Register Page Name for Multi-Page Layout ###
+register_page(__name__, path='/contact')
+
+
+load_figure_template('FLATLY')
+
+### Begin Page Layout ###
+layout = html.Div(
+    children=[
+        page_top(),
+        html.Div(
+            children=[
+                dbc.Row([
+                    dbc.Col(
+                        html.H2(
+                            '',
+                            style={
+
+                            }
+                        ),
+                        style={
+
+                            'textAlign':'center'
+                        }
+                    ),
+                    ],
+                    style={
+                        'height':'0px',
+                        'width':'100%'
+                        }
+                ),
+                dbc.Row(
+                    style={
+                        'background-image':'url("assets/sun2.png")',
+                        'bacgkround-repeat':'no-repeat',
+                        'background-size': 'cover',
+                        'background-position': 'left bottom',
+                        'max-width':'120%',
+                        'max-height':'110%',
+                        'height':'450px',
+                        'border-bottom': '3px solid #ae5000',
+                        }
+                ),
+                
+                dbc.Row([
+                    dbc.Col([
+                        html.H2(
+                            [
+                            html.U("Contact"),
+                            ],
+                            style={
+                                'color': '#666600',
+                                'font-size':'35px',
+                                'padding':'10px 0px 0px 60px',
+                                'font-family': 'Montserrat, Helvetica, Arial, sans-serif',
+                                'font-weight':'bold'
+                                
+                            }
+                        ),
+                        html.H2(
+                            [
+                            "Email: dkjorling@gmail.com",
+                            ],
+                            style={
+                                'color':'#666600',
+                                'font-size':'25px',
+                                'padding':'0px 0px 5px 60px',
+                                'font-family': 'Montserrat, Helvetica, Arial, sans-serif',
+                                'font-weight':'bold'
+                                }
+                            )
+                        ],
+                        style={
+                            'textAlign':'left'
+                        }
+                    ),
+                    ],
+                    style={
+                        'height':'300px',
+                        'width':'100%',
+                        'background-color':'seashell',
+                    }
+                ),
+                
+            ],
+            style={
+                'background-color':'seashell',
+                'width':'100%'
+                
+                  }
+        ),
+        page_bottom(),
+    ],
+)
+    
+   
+
