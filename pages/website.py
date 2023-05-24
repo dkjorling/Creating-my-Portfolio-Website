@@ -46,7 +46,7 @@ layout = html.Div(
                                         'background-color':'#666600',
                                     },
                             ),
-                            href='/assets/nflwinner.pdf',
+                            href='https://github.com/dkjorling/Creating-my-Portfolio-Website',
                             style={
                                 'padding':'0px 15px 0px 30px',
                                 'textAlign':'center'
@@ -81,14 +81,21 @@ layout = html.Div(
                     dbc.Col(
                         [
                         html.P(
-                            "",
+                            "I built my portfolio website using Dash, a Python framework for building web applications. The website showcases my proficiency in data analysis, statistical modeling, and data visualization through a collection of projects I have completed. The website features a clean and intuitive design, with easy navigation to each project's page. On each project's page, visitors can view a brief description of the project, as well as data visualizations and dashboards created using Plotly.",
                             style={
                                 'font-size':'16px',
                                 'color':'#666600'
                             }
                         ),
                         html.P(
-                            "",
+                            "To ensure the website's scalability and reliability, I deployed it to AWS using Elastic Beanstalk, a fully managed service that handles the deployment, scaling, and monitoring of web applications. Visitors can access the website from anywhere with an internet connection, and the website's performance is optimized for a smooth user experience.",
+                            style={
+                                'font-size':'16px',
+                                'color':'#666600'
+                            }
+                        ),
+                        html.P(
+                            "Overall, this project demonstrates my ability to effectively communicate my skills and accomplishments through a professional and user-friendly website. It also showcases my proficiency in utilizing various tools and technologies to create a seamless and engaging online experience for visitors. ",
                             style={
                                 'font-size':'16px',
                                 'color':'#666600'
@@ -126,13 +133,13 @@ layout = html.Div(
                         html.Div(
                             [
                             html.Span(
-                                ": ",
+                                "Web Design with Dash: ",
                                 style={
                                     'color':'#004640',
                                     'font-weight':'bold'
                                 },
                             ),
-                            "",
+                            "Utilize Dash to design entirety of website and embed projects and dashboards",
                             ],
                             style={
                                 'color':'#ae5000',
@@ -147,13 +154,13 @@ layout = html.Div(
                         html.Div(
                             [
                             html.Span(
-                                ": ",
+                                "Deployment with AWS EB: ",
                                 style={
                                     'color':'#004640',
                                     'font-weight':'bold'
                                 },
                             ),
-                            "",
+                            "Deploy website to AWS server using Elastic Beanstalk",
                             ],
                             style={
                                 'color':'#ae5000',
@@ -164,27 +171,7 @@ layout = html.Div(
                             }
                         ),
                     ),
-                    html.Li(
-                        html.Div(
-                            [
-                            html.Span(
-                                ": ",
-                                style={
-                                    'color':'#004640',
-                                    'font-weight':'bold'
-                                },
-                            ),
-                            "",
-                            ],
-                            style={
-                                'color':'#ae5000',
-                                'font-size':'16px',
-                                'textAlign':'left',
-                                'padding':'5px',
-                                
-                            }
-                        ),
-                    ),
+
                     html.Li(
                         html.Div(
                             [
@@ -195,7 +182,7 @@ layout = html.Div(
                                     'font-weight':'bold'
                                 },
                             ),
-                            "plotly, Dash, AWS Beanstalk",
+                            "Dash, AWS Elastic Beanstalk",
                             ],
                             style={
                                 'color':'#666600',

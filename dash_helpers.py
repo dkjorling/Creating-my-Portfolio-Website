@@ -220,15 +220,23 @@ def Navbar():
             dbc.Col(
                 children=[
                     html.A(
-                        "RESUMÉ",
-                        href="/assets/resume.pdf",
+                        "C.V.",
+                        href="/cv",
                         style={
                             'color': 'linen',
                             'font-size':'12px',
                             'padding':'0px 5px 0px 0px'
                         }
                     ),
-
+                    html.A(
+                        "RESUMÉ",
+                        href="/assets/resume.pdf",
+                        style={
+                            'color': 'linen',
+                            'font-size':'12px',
+                            'padding':'0px 5px 0px 5px'
+                        }
+                    ),
                     html.A(
                         "CONTACT",
                         href="/contact",

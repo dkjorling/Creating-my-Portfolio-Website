@@ -111,7 +111,7 @@ layout = html.Div(
                     dbc.Col(
                         dbc.Stack([
                             html.H4(
-                                "Creating an Options Database and Live Volatility Surface App",
+                                "Entity-Level Sentiment Analysis with Reddit Data",
                                 style={
                                     'color':'#ae5000',
                                     'padding':'10px 10px 0px 10px',
@@ -121,7 +121,7 @@ layout = html.Div(
                                 }
                             ),
                             html.P(
-                                "Design multi-table AWS MYSQL Database; Automatically pull stock/option price data from Yahoo Finance and upload nearly 1 million rows of data to DB daily; Create a real-time volatility surface dashboard.",
+                                "Pull all Reddit posts/comments from r/lakers dating to beginning of season; Identify player entities and analyze sentiment for each player through time; Create app showing sentiment with player/team stats throughout the season",
                                 style={
                                     'color':'#666600',
                                     'font-size':'12px',
@@ -130,16 +130,16 @@ layout = html.Div(
                                    }
                             ),
                             
-                            proj_image('aws.png'),
+                            proj_image('lakers.png', '90%', '90%'),
                             
                             html.Div([
                                 html.Span(
-                                    "SKILLS [SQL, AWS, Python]: ",
+                                    "SKILLS [Python]: ",
                                     style={
                                         'color':'#004640'
                                     },
                                 ),
-                                "Database Design, Web Scraping",
+                                "Entity Recognition, Sentiment Analysis, Web Scraping ",
                                 ],
                                 style={
                                     'color':'#ae5000',
@@ -149,7 +149,7 @@ layout = html.Div(
                                 }
                             ),
                             
-                            proj_buttons3("/optdb", "https://github.com/dkjorling/Option-DB-and-IV-Surface-Dash", "/optdb/dashboard"),
+                            proj_buttons3("/redditnlp", "https://github.com/dkjorling/Entity-Level-Sentiment-Analysis-with-Reddit-Data", "/redditnlp/dashboard"),
                             
                         ]),
                         style={
@@ -160,7 +160,6 @@ layout = html.Div(
                             'textAlign':'center'
                                 }
                     ),
-                    
                     ],
                     style={
                         'font-family': 'Montserrat, Helvetica, Arial, sans-serif',
@@ -222,7 +221,7 @@ layout = html.Div(
                     dbc.Col(
                         dbc.Stack([
                             html.H4(
-                                "Entity-Level Sentiment Analysis with Reddit Data",
+                                "Creating an Options Database and Live Volatility Surface App",
                                 style={
                                     'color':'#ae5000',
                                     'padding':'10px 10px 0px 10px',
@@ -232,7 +231,7 @@ layout = html.Div(
                                 }
                             ),
                             html.P(
-                                "CURRENT PROJECT: Pull all Reddit posts/comments from r/lakers dating to beginning of season; Identify player entities and analyze sentiment for each player through time; Create app showing sentiment with player/team stats throughout the season",
+                                "Design multi-table AWS MYSQL Database; Automatically pull stock/option price data from Yahoo Finance and upload nearly 1 million rows of data to DB daily; Create a real-time volatility surface dashboard.",
                                 style={
                                     'color':'#666600',
                                     'font-size':'12px',
@@ -241,16 +240,16 @@ layout = html.Div(
                                    }
                             ),
                             
-                            proj_image('lakers.png', '90%', '90%'),
+                            proj_image('aws.png'),
                             
                             html.Div([
                                 html.Span(
-                                    "SKILLS [Python]: ",
+                                    "SKILLS [SQL, AWS, Python]: ",
                                     style={
                                         'color':'#004640'
                                     },
                                 ),
-                                "Entity Recognition, Sentiment Analysis, Web Scraping ",
+                                "Database Design, Web Scraping",
                                 ],
                                 style={
                                     'color':'#ae5000',
@@ -260,7 +259,7 @@ layout = html.Div(
                                 }
                             ),
                             
-                            proj_buttons3("/redditnlp", "/redditnlp", "/redditnlp"),
+                            proj_buttons3("/optdb", "https://github.com/dkjorling/Option-DB-and-IV-Surface-Dash", "/optdb/dashboard"),
                             
                         ]),
                         style={
@@ -418,7 +417,7 @@ layout = html.Div(
                                         'color':'#004640'
                                     },
                                 ),
-                                "AWS Beanstalk, Plotly Dash, Web Design",
+                                "AWS Elastic Beanstalk, Plotly Dash, Web Design",
                                 ],
                                 style={
                                     'color':'#ae5000',
@@ -428,7 +427,7 @@ layout = html.Div(
                                 }
                             ),
                             
-                            proj_buttons2("/website", "/website"),
+                            proj_buttons2("/website", "https://github.com/dkjorling/Creating-my-Portfolio-Website"),
                             
                         ]),
                         style={
