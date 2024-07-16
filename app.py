@@ -11,7 +11,7 @@ from dash import Dash, html, page_container
 
 app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.FLATLY])
 
-application = app.server # added for amazon beanstalk
+#application = app.server # added for amazon beanstalk
 
 app.layout = html.Div(
                 children=[
@@ -21,5 +21,5 @@ app.layout = html.Div(
 
 
 if __name__ == '__main__':
-    application.run(debug=False, port=8080)  # port added for amazon beanstalk
+    app.run(debug=False, port=8080)  # port added for amazon beanstalk
                        
