@@ -1,0 +1,9 @@
+,TEAM_ID,SEASON_YEAR,TEAM_CITY,TEAM_NAME,TEAM_ABBREVIATION,TEAM_CONFERENCE,TEAM_DIVISION,TEAM_CODE,TEAM_SLUG,W,L,PCT,CONF_RANK,DIV_RANK,MIN_YEAR,MAX_YEAR
+0,1610612747,2022-23,Los Angeles,Lakers,LAL,West,Pacific,lakers,lakers,43,39,0.524,7,5,1948,2022
+1,1610612762,2022-23,Utah,Jazz,UTA,West,Northwest,jazz,jazz,37,45,0.451,12,4,1974,2022
+2,1610612746,2022-23,LA,Clippers,LAC,West,Pacific,clippers,clippers,44,38,0.537,5,3,1970,2022
+3,1610612750,2022-23,Minnesota,Timberwolves,MIN,West,Northwest,timberwolves,timberwolves,42,40,0.512,8,2,1989,2022
+4,1610612753,2022-23,Orlando,Magic,ORL,East,Southeast,magic,magic,34,48,0.415,13,4,1989,2022
+5,1610612743,2022-23,Denver,Nuggets,DEN,West,Northwest,nuggets,nuggets,53,29,0.646,1,1,1976,2022
+6,1610612741,2022-23,Chicago,Bulls,CHI,East,Central,bulls,bulls,40,42,0.488,10,3,1966,2022
+7,1610612764,2022-23,Washington,Wizards,WAS,East,Southeast,wizards,wizards,35,47,0.427,12,3,1961,2022

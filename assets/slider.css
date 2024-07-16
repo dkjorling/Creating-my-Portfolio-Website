@@ -1,0 +1,298 @@
+.rc-slider-track {
+    background-color: seagreen;
+    border-color:seagreen;
+  }
+
+.rc-slider-step {
+    background-color: seagreen;
+    border-color:seagreen;
+}
+
+#player-select .Select-menu-outer {
+  color:#552583;
+  font-size: 14px;
+  background-color: #FDB927;
+}
+
+#player-select .Select-value-label {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927;
+}
+
+#entity-select .Select-menu-outer {
+  color:#552583;
+  font-size: 14px;
+  background-color: #FDB927;
+}
+
+#entity-select .Select-value-label {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927;
+}
+
+
+#stat-select .Select--single {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+
+#stat-select .Select-menu-outer {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+#stat-select .Select-value-label {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select .Select-control {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+
+#sent-select .Select-menu-outer {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+#sent-select .Select-value-label {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#sent-select .Select-control {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#sent-select .Select--single {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select2 .Select-menu-outer {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+#stat-select2 .Select-value-label {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select2 .Select-control {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select2 .Select--single {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select3 .Select-menu-outer {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+#stat-select3 .Select-value-label {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select3 .Select-control {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select3 .Select--single {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+
+#stat-select-team .Select--single {
+  color:#552583;
+  font-size: 14px;
+  background-color: #FDB927;
+  height: 30px
+}
+
+
+#stat-select-team  .Select-menu-outer {
+  color:#552583;
+  font-size: 14px;
+  background-color: #FDB927
+}
+
+#stat-select-team  .Select-value-label {
+color:#552583;
+font-size: 14px;
+background-color: #FDB927;
+height: 30px;
+}
+
+#stat-select-team  .Select-control {
+color:#552583;
+font-size: 14px;
+background-color: #FDB927;
+height: 30px
+}
+
+#sent-select-team .Select--single {
+  color:#552583;
+  font-size: 14px;
+  background-color: #FDB927;
+  height: 30px;
+  }
+
+#sent-select-team .Select-menu-outer {
+  color:#552583;
+  font-size: 14px;
+  background-color: #FDB927;
+}
+
+#sent-select-team .Select-value-label {
+color:#552583;
+font-size: 14px;
+background-color: #FDB927;
+height: 30px
+}
+
+#sent-select-team .Select-control {
+color:#552583;
+font-size: 14px;
+background-color: #FDB927;
+height: 30px;
+}
+
+
+
+#stat-select-team2 .Select-menu-outer {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+#stat-select-team2 .Select-value-label {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select-team2.Select-control {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select-team2 .Select--single {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select-team3 .Select-menu-outer {
+  color:#552583;
+  font-size: 16px;
+  background-color: #FDB927
+}
+
+#stat-select-team3  .Select-value-label {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select-team3 .Select-control {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+#stat-select-team3  .Select--single {
+color:#552583;
+font-size: 16px;
+background-color: #FDB927
+}
+
+
+#date-select .DateInput_input {
+  background-color: #FDB927;
+  color: #552583;
+  height: 20px;
+  font-size: 14px
+}
+#date-select .DateInput_1 {
+  background-color: #FDB927;
+  color: #552583;
+  height: 20px;
+  font-size: 14px
+}
+
+#date-select .DateInput {
+  background-color: #FDB927;
+  color: #552583;
+  height: 20px;
+  font-size: 14px;
+  width: 95px
+}
+
+#date-select .SingleDatePickerInput {
+  background-color: #FDB927;
+  color: #552583;
+  height: 25px;
+  font-size: 14px;
+  width: 100px
+}
+
+#date-select-team .DateInput_input {
+  background-color: #FDB927;
+  color: #552583;
+  height: 20px;
+  font-size: 14px
+}
+#date-select-team .DateInput_1 {
+  background-color: #FDB927;
+  color: #552583;
+  height: 20px;
+  font-size: 14px
+}
+
+#date-select-team .DateInput {
+  background-color: #FDB927;
+  color: #552583;
+  height: 20px;
+  font-size: 14px;
+  width: 95px
+}
+
+#date-select-team .SingleDatePickerInput {
+  background-color: #FDB927;
+  color: #552583;
+  height: 25px;
+  font-size: 14px;
+  width: 100px
+}
+

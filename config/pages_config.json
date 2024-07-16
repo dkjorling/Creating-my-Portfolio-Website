@@ -59,7 +59,7 @@
       "title": "Exploring Fan Sentiment in the Digital Realm",
       "buttons": [
          {
-            "Dashboard": "/redditnlp"
+            "Dashboard": "redditnlp/dashboard/players"
          },
          {
             "Code": "https://github.com/dkjorling/Entity-Level-Sentiment-Analysis-with-Reddit-Data"

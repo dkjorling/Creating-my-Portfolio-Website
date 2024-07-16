@@ -32,7 +32,7 @@
     "buttons": [
       "/redditnlp",
       "https://github.com/dkjorling/Entity-Level-Sentiment-Analysis-with-Reddit-Data",
-      "/redditnlp"
+      "redditnlp/dashboard/players"
     ]
   },
   "wine": {
