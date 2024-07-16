@@ -1,0 +1,1 @@
+When I first learned about embedding layers in a Machine Learning course at UCLA, I was fascinated by the concept. Embedding layers facilitate turning written text into a mathematical problem by encoding individual words as n-dimensional vectors. These vectors are then trained as part of an NLP problem, revealing relationships between words based on the problem being solved.

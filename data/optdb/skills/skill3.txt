@@ -1,0 +1,1 @@
+Initialize an AWS MySQL Database instance to efficiently store, access and share data.

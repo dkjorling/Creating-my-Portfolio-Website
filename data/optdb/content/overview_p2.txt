@@ -1,0 +1,1 @@
+Using the yahooquery and yfinance Python libraries, I wrote a script that automatically pulls stock and options price data three times daily and uploads it to my AWS MySQL database. The collected data includes price and volume information for approximately 300 underlying assets and their respective option chains. The database includes four tables:

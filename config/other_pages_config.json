@@ -1,0 +1,55 @@
+{
+   "home": {
+      "image":"home_im1.png"
+   },
+   "contact":{
+      "image": "contact_im1.png",
+      "email": "dkjorling@gmail.com"
+   },
+   "about": {
+      "buttons": [
+         {
+            "Resum\u00e9": "/assets/resume.pdf"
+         },
+         {
+            "Contact": "/contact"
+         }
+      ],
+      "header":[
+         {
+            "im1": "50%"
+         }
+      ],
+      "content": [
+         {
+            "Professional & Academic Interests": [
+               "Deep Learning in Finance ",
+               "Broad NLP Applications",
+               "Machine Learning in Sports Analytics",
+               "Quantitative Trading"
+            ]
+         },
+         {
+            "Personal Interests": [
+               "Marathon Runner",
+               "Wine Lover and Foodie",
+               "Beach Volleyball",
+               "Dog Dad",
+               "Cooking",
+               "Travelling around the World",
+               "NFL (Bengals), NBA (Lakers), Premier League (Tottenham)"
+            ]
+         },
+         {
+            "Bio": [
+               "p1",
+               "p2",
+               "p3",
+               "p4",
+               "p5",
+               "p6"
+            ]
+         }
+      ]
+   }
+}

@@ -1,0 +1,1 @@
+Deploy the API using AWS Lambda and utilize AWS DynamoDB for secure user authentication.

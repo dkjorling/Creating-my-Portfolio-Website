@@ -1,0 +1,1 @@
+Link predictive models to betting strategies using Poisson distribution theory for outcome probability estimation.

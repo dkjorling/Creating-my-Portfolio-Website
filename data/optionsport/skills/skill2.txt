@@ -1,0 +1,1 @@
+Show mastery of ML time series techniques, implementing a 30-day lookback window with 10 features for 315 assets and an expanding window training approach to maximize breadth of data utilization. 

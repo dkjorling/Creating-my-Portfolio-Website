@@ -1,0 +1,1 @@
+Utilize part-of-speech recognition to resolve dual-meaning terms and co-reference resolution to extract additional entity references.

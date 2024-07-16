@@ -1,0 +1,1 @@
+Exhibit proficiency with seaborn to create informative and aesthetic visualizations

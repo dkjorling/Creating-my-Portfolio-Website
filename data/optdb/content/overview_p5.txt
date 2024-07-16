@@ -1,0 +1,1 @@
+Unfortunately, due to the cost of hosting a heavy-duty app requiring large dependency packages, I am no longer hosting a live version of the dashboard on my website. The image below shows what the dashboard looks like, and I do intend to eventually host it again in the future.

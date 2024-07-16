@@ -1,0 +1,1 @@
+To ensure the website's scalability and reliability, I deployed it to AWS using Elastic Beanstalk, a fully managed service that handles the deployment, scaling, and monitoring of web applications. Visitors can access the website from anywhere with an internet connection, and the website's performance is optimized for a smooth user experience.

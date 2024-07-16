@@ -1,0 +1,1 @@
+Fit GAM using kernel regression, beginning with most predictive variable and iteratively regressing on prior variable residuals

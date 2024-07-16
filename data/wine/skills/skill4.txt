@@ -1,0 +1,1 @@
+Implement Domain Adaptation by taking pre-trained Open AI GPT2 model in the huggingface transformers library and training the model to write AI-generated reviews in the style of Vivino users

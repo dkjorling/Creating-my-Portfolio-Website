@@ -1,0 +1,1 @@
+Display robust knowledge of supervised learning tasks using both categorical and numerical predictors with implementation of one-hot encoding and data normalization to properly utilize all data types.

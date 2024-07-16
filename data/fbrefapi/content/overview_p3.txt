@@ -1,0 +1,1 @@
+Thorough documentation accompanies the API, detailing all endpoints and their usage. The documentation provides clear examples and explanations, enabling users to quickly understand how to interact with the API and make the most of its capabilities.

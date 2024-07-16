@@ -1,0 +1,1 @@
+Scrape entire Lakers reddit history and player statistics for the 2022-23 season

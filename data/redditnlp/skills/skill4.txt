@@ -1,0 +1,1 @@
+Enhance base sentiment analysis tool by creating a basketball-lexicon with emojis and incorporating sentence tokenization to better isolate entity-level sentiment

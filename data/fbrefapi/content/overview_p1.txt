@@ -1,0 +1,4 @@
+
+I developed a Flask RESTful API designed to scrape data from fbref.com and return it to users in easily usable JSON objects based on the parameters they provide. Football Reference is a fantastic data source containing advanced statistics for hundreds of leagues, thousands of teams, and tens of thousands of players. The API offers 12 unique endpoints, enabling users to access various types of soccer data. Users can scrape comprehensive meta-data and statistics for leagues, teams, players and matches which can be used for a variety of analytical tasks. 
+
+

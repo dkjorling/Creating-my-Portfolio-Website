@@ -1,0 +1,1 @@
+As a massive NFL fan, any potential project related to NFL data is of great interest to me. My motivation behind this project was trying to uncover an edge in resource allocation strategies for NFL teams using statistical modeling. This was by far the largest project I had undertook to date and my first foray into a complete end-to-end data analysis.

@@ -1,0 +1,2 @@
+One of the key findings from our analysis was that the relationship between combine results and draft position is much stronger in determining whether a player is drafted or not rather than when they are drafted. This is a valuable insight, as it challenges conventional wisdom and suggests that other factors may play a more significant role in predicting draft position. Below you will find condensed EDA and results for this project, while the full paper can be accessed using the PDF link above.
+

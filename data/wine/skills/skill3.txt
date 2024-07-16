@@ -1,0 +1,1 @@
+Extract word embeddings from trained models, develop polarity scoring mechanism for descriptive words and visualize most polarizing descriptors using the Embedding Projector and Seaborn

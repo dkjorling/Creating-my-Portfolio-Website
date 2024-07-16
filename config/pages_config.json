@@ -1,0 +1,538 @@
+{
+   "optionsport": {
+      "title": "Building an Options Portfolio with Deep Learning",
+      "buttons": [
+         {
+            "Dashboard": "/optionsport"
+         },
+         {
+            "Code": "https://github.com/dkjorling/Building-an-Options-Portfolio-with-Deep-Learning"
+         },
+         {
+            "PDF": "/assets/thesis.pdf"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3",
+               "p4"
+            ]
+         },
+         {
+            "Results And Conclusion": [
+               {
+                  "im1": 125
+               },
+               "p1"
+            ]
+         },
+         {
+            "The Options Portfolio Model Diagram": [
+               {
+                  "im1": 500
+               }
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Deep Learning with PyTorch"
+         },
+         {
+            "skill2": "Time Series Analysis"
+         },
+         {
+            "skill3": "Analytical Writing"
+         },
+         {
+            "skill4": "Data Visualization"
+         },
+         {
+            "lib": "PyTorch, pandas, plotly, Dash"
+         }
+      ]
+   },
+   "redditnlp": {
+      "title": "Exploring Fan Sentiment in the Digital Realm",
+      "buttons": [
+         {
+            "Dashboard": "/redditnlp"
+         },
+         {
+            "Code": "https://github.com/dkjorling/Entity-Level-Sentiment-Analysis-with-Reddit-Data"
+         },
+         {
+            "PDF": "/assets/reddit.pdf"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3",
+               "p4"
+            ]
+         },
+         {
+            "Results And Conclusion": [
+               {
+                  "im1": "40%"
+               },
+               "p1",
+               {
+                  "ims1": {
+                     "ims1a": "38%",
+                     "ims1b": "38%"
+                  }
+               },
+               "p2",
+               {
+                  "im2": "70%"
+               },
+               "p3"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Web Scraping with Requests"
+         },
+         {
+            "skill2": "Entity Recognition"
+         },
+         {
+            "skill3": "Advanced NLP Techniques with SpaCy"
+         },
+         {
+            "skill4": "Sentiment Analysis with vaderSentiment"
+         },
+         {
+            "lib": "requests, spaCy, vaderSentiment, nltk, pandas, Dash"
+         }
+      ]
+   },
+   "wine": {
+      "title": "Palate Perception: Unraveling Wine Sentiments through Deep Learning",
+      "buttons": [
+         {
+            "PDF": "/assets/wine.pdf"
+         },
+         {
+            "Code": "https://github.com/dkjorling/Palate-Perception-Unraveling-Wine-Sentiments-through-Deep-Learning-and-3D-Embedding-Visualization"
+         },
+         {
+            "Projector": "https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/dkjorling/4fb373a4acbbfe896d6b1fcf958a3d17/raw/b47304012c03d6f637147aa5a7ed9c1c5423f20c/template_projector_config.json"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3",
+               "p4",
+               "p5"
+            ]
+         },
+         {
+            "Using the Embedding Projector": [
+               {
+                  "im1": "40%"
+               },
+               "p1",
+               {
+                  "im2": "70%"
+               },
+               "p2",
+               [
+                  "A: Choose word to analyze ",
+                  "B: Choose how many nearest words are labeled on 3-D plot",
+                  "C: Determine which distance formula to use",
+                  "D: A List of the nearest words in the original n-dimension space",
+                  "E: The word specified in plot A, labeled in 3-D space"
+               ]
+            ]
+         },
+         {
+            "Artificial Review Analysis": [
+               {
+                  "ims1": {
+                     "ims1a": "38%",
+                     "ims1b": "38%"
+                  }
+               },
+               "p1",
+               "p2",
+               "p3"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Web Scraping with Requests"
+         },
+         {
+            "skill2": "Deep Learning NLP with TensorFlow"
+         },
+         {
+            "skill3": "Data Visualization with TF Embedding Projector and Seaborn"
+         },
+         {
+            "skill4": "LLM Transfer Learning with Transformers"
+         },
+         {
+            "lib": "TensorFlow, Transformers (huggingface), PyTorch, Requests, Seaborn"
+         }
+      ]
+   },
+   "optdb": {
+      "title": "Creating an Options Database and Live Volatility Surface App",
+      "buttons": [
+         {
+            "Dashboard": "/optdb"
+         },
+         {
+            "Code": "https://github.com/dkjorling/Option-DB-and-IV-Surface-Dash"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               [
+                  "1. stocks: Contains each asset name.",
+                  "2. stock_prices: Contains 3x daily price data for stocks.",
+                  "3. options: Contains descriptions of each option contract.",
+                  "4. option_prices: Contains option price data recorded simultaneously with stock prices."
+               ],
+               "p3",
+               "p4",
+               "p5",
+               {
+                  "im1": "80%"
+               }
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "SQL Database Design"
+         },
+         {
+            "skill2": "Optimal API Usage and DB Data Insertion"
+         },
+         {
+            "skill3": "AWS RDS"
+         },
+         {
+            "skill4": "Data Visualization"
+         },
+         {
+            "lib": "SQLAlchemy, yfinance, yahooquery, pandas, apcheduler, plotly, Dash"
+         }
+      ]
+   },
+   "imdb": {
+      "title": "IMDb Data Analysis & Movie Budget Generator",
+      "buttons": [
+         {
+            "Dashboard": "/imdb"
+         },
+         {
+            "Code": "https://github.com/dkjorling/IMDB-Dashboard"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3",
+               "p4",
+               {
+                  "im1": "80%"
+               }
+            ]
+         },
+         {
+            "Results and Conclusion": [
+               "p1",
+               "p2"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Data Cleaning"
+         },
+         {
+            "skill2": "Feature Engineering"
+         },
+         {
+            "skill3": "Supervised Machine Learning"
+         },
+         {
+            "skill4": "Model-UI Integration"
+         },
+         {
+            "lib": "PyTorch, pandas, plotly, Dash"
+         }
+      ]
+   },
+   "nflwinner": {
+      "title": "Building a Winner in the Modern NFL",
+      "buttons": [
+         {
+            "PDF": "/assets/nflwinner.pdf"
+         },
+         {
+            "Code": "https://github.com/dkjorling/Building-a-Winner-in-the-Modern-NFL"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3"
+            ]
+         },
+         {
+            "EDA": [
+               {
+                  "im1": 300
+               },
+               "p1",
+               {
+                  "ims1": {
+                     "ims1a": "38%",
+                     "ims1b": "38%"
+                  }
+               },
+               "p2"
+            ]
+         },
+         {
+            "Results And Conclusion": [
+               "p1",
+               "p2"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Web Scraping with rvest"
+         },
+         {
+            "skill2": "Data Analysis with tidyverse"
+         },
+         {
+            "skill3": "General Additive Modeling"
+         },
+         {
+            "skill4": "Data Visualization with ggplot"
+         },
+         {
+            "skill5": "Analytical Writing"
+         },
+         {
+            "lib": "rvest, tidyverse, ggplot"
+         }
+      ]
+   },
+   "combine": {
+      "title": "Data Blitz: Empowering NFL Draft Decisions through Machine Learning and Statistical Modeling",
+      "buttons": [
+         {
+            "PDF": "/assets/combine.pdf"
+         },
+         {
+            "Code": "https://github.com/dkjorling/Predictive-Modeling-with-NFL-Combine-Data"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3"
+            ]
+         },
+         {
+            "EDA": [
+               {
+                  "ims1": {
+                     "ims1a": 300,
+                     "ims1b": 300
+                  }
+               },
+               "p1"
+            ]
+         },
+         {
+            "Results And Conclusion": [
+               "p1",
+               {
+                  "ims1": {
+                     "ims1a": 300,
+                     "ims1b": 300
+                  }
+               },
+               "p2",
+               "p3"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Machine Learning with scikit-learn"
+         },
+         {
+            "skill2": "Data Visualization with seaborn"
+         },
+         {
+            "skill3": "Statistical Analysis with statsmodels"
+         },
+         {
+            "skill4": "Analytical Writing"
+         },
+         {
+            "lib": "scikit-learn, seaborn, statsmodels, pandas"
+         }
+      ]
+   },
+   "website": {
+      "title": "Creating my Portfolio Website",
+      "buttons": [
+         {
+            "Code": "https://github.com/dkjorling/Creating-my-Portfolio-Website"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Web Design with Dash"
+         },
+         {
+            "skill2": "Deployment with AWS EB"
+         },
+         {
+            "lib": "Dash, AWS Elastic Beanstalk"
+         }
+      ]
+   },
+   "fbrefapi": {
+      "title": "Football Reference API for Soccer Data Scraping",
+      "buttons": [
+         {
+            "Documentation": "https://fbrapi.com/documentation"
+         },
+         {
+            "Code": "https://github.com/dkjorling/FbrefAPI"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2",
+               "p3",
+               "p4"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "API Development"
+         },
+         {
+            "skill2": "Web Scraping"
+         },
+         {
+            "skill3": "AWS Services"
+         },
+         {
+            "skill4": "Technical Documentation"
+         },
+         {
+            "lib": "Flask, Requests, BeautifulSoup, AWS Lambda, DynamoDB"
+         }
+      ]
+   },
+   "soccerdb": {
+      "title": "International Soccer Databse",
+      "buttons": [
+         {
+            "Code": "https://github.com/dkjorling/Soccer-DB"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "End-to-End Data Pipeline"
+         },
+         {
+            "skill2": "Automated Workflows"
+         },
+         {
+            "skill2": "Testing and Error Management"
+         },
+         {
+            "lib": "Pandas, sqlite3"
+         }
+      ]
+   },
+   "bettingtransformer": {
+      "title": "Current Project: Betting Transformer",
+      "buttons": [
+         {
+            "Code": "/bettingtransformer"
+         }
+      ],
+      "content": [
+         {
+            "Overview": [
+               "p1",
+               "p2"
+            ]
+         }
+      ],
+      "skills": [
+         {
+            "skill1": "Deep Learning with PyTorch"
+         },
+         {
+            "skill2": "Predictive Analytics"
+         },
+         {
+            "skill3": "Betting Strategies"
+         },
+         {
+            "skill4": "Wealth Optimization"
+         },
+         {
+            "lib": "PyTorch, Pandas"
+         }
+      ]
+   }
+}

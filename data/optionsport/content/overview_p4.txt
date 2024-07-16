@@ -1,0 +1,1 @@
+My complete thesis can be accessed by clicking the PDF link at the top of this page. I also built an interactive Plotly Dash dashboard as a way to showcase my results, which can be accessed using the Dashboard button above.

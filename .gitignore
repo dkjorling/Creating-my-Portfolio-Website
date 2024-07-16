@@ -3,8 +3,13 @@
 *.doc
 *.docx
 *.DS_Store
+*.ipynb
 assets/
-p2venv/
+venv/
 __pycache__/
 Dockerfile
+.ipynb_checkpoints/
+unused/
+scripts/
+
 

@@ -1,0 +1,201 @@
+{
+  "optionsport": {
+    "title": "Building an Options Portfolio with Deep Learning",
+    "summary": "MASTER'S THESIS: Apply state of the art deep learning architectures to over 15 years and 300 tickers worth of daily implied volatility data to create the novel Options Portfolio Transformer.",
+    "photo_path": "proj_optionsport.png",
+    "skills1": [
+      "Python"
+    ],
+    "skills2": [
+      "Deep Learning",
+      "Time Series Analysis",
+      "Data Visualization"
+    ],
+    "buttons": [
+      "/optionsport",
+      "https://github.com/dkjorling/Building-an-Options-Portfolio-with-Deep-Learning",
+      "/optionsport"
+    ]
+  },
+  "redditnlp": {
+    "title": "Exploring Fan Sentiment in the Digital Realm",
+    "summary": "Utilize advanced NLP techniques to analyze fan social media sentiment towards individual players on the 2022-23 L.A. Lakers and link fan sentiment to on-court performance",
+    "photo_path": "proj_redditnlp.png",
+    "skills1": [
+      "Python"
+    ],
+    "skills2": [
+      "Entity Recognition",
+      "Sentiment Analysis",
+      "Web Scraping"
+    ],
+    "buttons": [
+      "/redditnlp",
+      "https://github.com/dkjorling/Entity-Level-Sentiment-Analysis-with-Reddit-Data",
+      "/redditnlp"
+    ]
+  },
+  "wine": {
+    "title": "Unraveling Wine Sentiments through Deep Learning",
+    "summary": "Use Vivino review data to train and analyze deep-learning embedding layers and deploy Tensorflow embedding projector; develop AI review generator through transfer learning with GPT2",
+    "photo_path": "proj_wine.png",
+    "skills1": [
+      "Python"
+    ],
+    "skills2": [
+      "NLP Deep Learning",
+      "LLM Transfer Learning"
+    ],
+    "buttons": [
+      "/wine",
+      "https://github.com/dkjorling/Palate-Perception-Unraveling-Wine-Sentiments-through-Deep-Learning-and-3D-Embedding-Visualization",
+      "https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/dkjorling/4fb373a4acbbfe896d6b1fcf958a3d17/raw/b47304012c03d6f637147aa5a7ed9c1c5423f20c/template_projector_config.json",
+      "Projector"
+    ]
+  },
+  "optdb": {
+    "title": "Options Database and Live Volatility Surface App",
+    "summary": "Build AWS MySQL DB that automatically updates stock/option price data from Yahoo Finance, uploading 1 million rows of data daily. Develop a live volatility surface app for live visualization",
+    "photo_path": "proj_optdb.png",
+    "skills1": [
+      "SQL",
+      "AWS",
+      "Python"
+    ],
+    "skills2": [
+      "Database Design",
+      "Web Scraping"
+    ],
+    "buttons": [
+      "/optdb",
+      "https://github.com/dkjorling/Option-DB-and-IV-Surface-Dash"
+    ]
+  },
+  "combine": {
+    "title": "Empowering NFL Personnel Decisions through ML",
+    "summary": "Logistic Regression and R.F. models are used to predict drafted status based on player combine stats, then PCR and XGBoost models are developed to predict draft position",
+    "photo_path": "proj_combine.png",
+    "skills1": [
+      "Python"
+    ],
+    "skills2": [
+      "ML Classification",
+      "Supervised Learning",
+      "Dimensionality Reduction"
+    ],
+    "buttons": [
+      "/combine",
+      "https://github.com/dkjorling/Predictive-Modeling-with-NFL-Combine-Data",
+      "/assets/combine.pdf",
+      "PDF"
+    ]
+  },
+  "imdb": {
+    "title": "IMDb Data Analysis & Movie Budget Generator",
+    "summary": "What factors determine box-office profitability? Scrape data for over 5000 films, develop Fully Connected NN to predict Box Office Profit, and create profit-generator dashboard",
+    "photo_path": "proj_imdb.png",
+    "skills1": [
+      "Python"
+    ],
+    "skills2": [
+      "Feature Engineering",
+      "Front-End Development",
+      "Supervised ML"
+    ],
+    "buttons": [
+      "/imdb",
+      "https://github.com/dkjorling/IMDB-Dashboard"
+    ]
+  },
+  "website": {
+    "title": "Creating my Portfolio Website",
+    "summary": "Utilize Plotly Dash to design website; create and embed various dashboards for individual projects; Deploy website using AWS Elastic Beanstalk.",
+    "photo_path": "proj_website.png",
+    "skills1": [
+      "Python",
+      "AWS"
+    ],
+    "skills2": [
+      "AWS Elastic Beanstalk",
+      "Plotly Dash",
+      "Web Design"
+    ],
+    "buttons": [
+      "/website",
+      "https://github.com/dkjorling/Creating-my-Portfolio-Website"
+    ]
+  },
+  "nflwinner": {
+    "title": "Building a Winner in the Modern NFL",
+    "summary": "How can NFL teams optimize resources? Salary Cap and Draft Capital Resource Allocation is analyzed by position using Linear Model and GAM Kernel Regression.",
+    "photo_path": "proj_nflwinner.png",
+    "skills1": [
+      "R"
+    ],
+    "skills2": [
+      "EDA",
+      "Statistical Inference",
+      "Linear Modeling",
+      "General Additive Model"
+    ],
+    "buttons": [
+      "/nflwinner",
+      "https://github.com/dkjorling/Building-a-Winner-in-the-Modern-NFL",
+      "/assets/nflwinner.pdf",
+      "PDF"
+    ]
+  },
+  "fbrefapi": {
+    "title": "Football Reference Flask API",
+    "summary": "Build a Flask RESTful API allowing users to easily get data from 13 distinct endpoints, and deploy serverlessly using AWS Lambda",
+    "photo_path": "proj_fbrefapi.png",
+    "skills1": [
+      "Python",
+      "AWS"
+    ],
+    "skills2": [
+      "API Development",
+      "AWS Lambda",
+      "AWS DynamoDB"
+    ],
+    "buttons": [
+      "/fbrefapi",
+      "https://github.com/dkjorling/FbrefAPI",
+      "https://fbrapi.com/documentation",
+      "Documentation"
+    ]
+  },
+  "soccerdb": {
+    "title": "International Soccer Database",
+    "summary": "Build an expansive, automatically updated database covering over 70 leagues, 2,000 teams and 90,000 players",
+    "photo_path": "proj_soccerdb.png",
+    "skills1": [
+      "Python",
+      "SQL"
+    ],
+    "skills2": [
+      "Web Scraping",
+      "Database Design",
+      "Workflow Design"
+    ],
+    "buttons": [
+      "/soccerdb",
+      "https://github.com/dkjorling/Soccer-DB"
+    ]
+  },
+  "bettingtransformer": {
+    "title": "The Betting Transformer (Current Project)",
+    "summary": "Leverage soccer database to develop a player-based predictive model that will connect to a betting model to generate betting alpha",
+    "photo_path": "proj_bettingtransformer.png",
+    "skills1": [
+      "Python"
+    ],
+    "skills2": [
+      "Predictive Modeling"
+    ],
+    "buttons": [
+      "/bettingtransformer",
+      "/bettingtransformer"
+    ]
+  }
+}

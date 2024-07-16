@@ -1,0 +1,1 @@
+Overall, I am pleased with the results and enjoyed my first implementation of transfer learning. I look forward to applying transfer learning to more advanced projects in the future.
