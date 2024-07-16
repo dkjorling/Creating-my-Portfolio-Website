@@ -4,7 +4,6 @@
 *.docx
 *.DS_Store
 *.ipynb
-assets/
 venv/
 __pycache__/
 Dockerfile
