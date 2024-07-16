@@ -13,6 +13,9 @@ app = Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.FLATLY])
 
 #application = app.server # added for amazon beanstalk
 
+# Expose the Flask server instance used by Dash
+server = app.server
+
 app.layout = html.Div(
                 children=[
                     page_container,
