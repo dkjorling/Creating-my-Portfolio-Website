@@ -21,5 +21,5 @@ app.layout = html.Div(
 
 
 if __name__ == '__main__':
-    app.run(debug=False, port=8080)  # port added for amazon beanstalk
+    app.run_server(debug=False, port=8080)  # port added for amazon beanstalk
                        
