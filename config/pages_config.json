@@ -3,7 +3,7 @@
       "title": "Building an Options Portfolio with Deep Learning",
       "buttons": [
          {
-            "Dashboard": "/optionsport"
+            "Dashboard": "/optionsport/dashboard"
          },
          {
             "Code": "https://github.com/dkjorling/Building-an-Options-Portfolio-with-Deep-Learning"
